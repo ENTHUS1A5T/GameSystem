@@ -3,8 +3,8 @@
 Hey, horror enthusiasts! 👋 I'm [ENTHUSIAST](https://www.youtube.com/@ENTHUSIAST_UE5), and I'm thrilled to welcome you to my Horror Game System project.
 
 ## Links
-- [YouTube Channel](https://www.youtube.com/@ENTHUSIAST_UE5)
-- [Discord Server](https://discord.gg/KnzuVdge)
+[![YouTube Channel](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@ENTHUSIAST_UE5)
+[![Discord Server](https://img.shields.io/badge/Discord-Join-blue?style=for-the-badge&logo=discord)](https://discord.gg/KnzuVdge)
 
 ## Overview
 
@@ -20,8 +20,8 @@ Your support means the world to me! Consider subscribing to my [YouTube channel]
 
 ### Get Involved
 
-- Subscribe to the [YouTube Channel](https://www.youtube.com/@ENTHUSIAST_UE5)
-- Join the [Discord Server](https://discord.gg/KnzuVdge)
+[![Subscribe to YouTube Channel](https://img.shields.io/badge/Subscribe-YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@ENTHUSIAST_UE5)
+[![Join Discord Server](https://img.shields.io/badge/Join-Discord-blue?style=for-the-badge&logo=discord)](https://discord.gg/KnzuVdge)
 
 Your involvement is key to shaping this project into something extraordinary. Let's build a horror experience that keeps you on the edge of your seat!
 
