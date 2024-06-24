@@ -60,6 +60,11 @@
 			"Name": "FileSystemLibrary",
 			"Enabled": false,
 			"MarketplaceURL": "https://www.unrealengine.com/marketplace/en-US/product/c8061306eb9b4518ad9183e8a27bee04"
+		},
+		{
+			"Name": "FreeBoneSnapper",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/12fcc1d822204c5c94c56899bf3a04bd"
 		}
 	],
 	"TargetPlatforms": [
